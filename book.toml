@@ -1,0 +1,6 @@
+[book]
+authors = ["Emil Sadek"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Test Book"
